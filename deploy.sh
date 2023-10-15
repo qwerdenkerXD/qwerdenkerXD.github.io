@@ -6,3 +6,4 @@ npm run build
 cd ..
 cp html/* build
 cp LICENSE build
+cp CNAME build
